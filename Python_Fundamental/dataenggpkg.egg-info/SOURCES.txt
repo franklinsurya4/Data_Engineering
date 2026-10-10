@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+Python_Fundamental/dataenggpkg/__init__.py
+Python_Fundamental/dataenggpkg.egg-info/PKG-INFO
+Python_Fundamental/dataenggpkg.egg-info/SOURCES.txt
+Python_Fundamental/dataenggpkg.egg-info/dependency_links.txt
+Python_Fundamental/dataenggpkg.egg-info/top_level.txt
+Python_Fundamental/dataenggpkg/depython/__init__.py
+Python_Fundamental/dataenggpkg/depython/somemodule.py
